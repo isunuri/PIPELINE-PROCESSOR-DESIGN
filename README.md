@@ -89,5 +89,6 @@ If the instruction is LOAD, it reads data from data memory using the calculated 
 This task provided valuable experience in building a fundamental pipelined CPU architecture. Despite being simplified, the design introduces key processor concepts like instruction timing, parallel execution, register file usage, and memory access. It lays a strong foundation for more advanced projects like 5-stage RISC processors, hazard management units, or pipeline forwarding logic. The use of Verilog and Vivado made it easier to visualize and verify each pipeline stage's behavior, enabling a practical understanding of digital processor design.
 
 # schematic & outputwaveforms
-
+![Image](https://github.com/user-attachments/assets/10eb2bc3-f6f0-4c32-8c1c-ce64c56bfd54)
+![Image](https://github.com/user-attachments/assets/2631c44f-f997-408b-a1b1-daa907a81237)
 
